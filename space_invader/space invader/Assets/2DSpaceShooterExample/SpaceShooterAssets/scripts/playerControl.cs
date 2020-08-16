@@ -30,8 +30,7 @@ public class playerControl : MonoBehaviour
             transform.position += Vector3.right * speed * Time.deltaTime;
         }
 
-        if (Input.GetButtonDown("Fire1") && Time.time > nextFire)
-        {
+        if (Input.GetButtonDown("Fire1") && Time.time > nextFire) {
             shoot();
         }
     }

@@ -24,16 +24,16 @@ public class enemyMovement : MonoBehaviour
                     Camera.main.transform.position.z));
         objectWidth = transform.GetComponent<SpriteRenderer>().bounds.size.x / 2;
         objectHeight = transform.GetComponent<SpriteRenderer>().bounds.size.y / 2;
-        pos1 = new Vector3(screenBounds.x * -1 + objectWidth, yAxis,0);
-        pos2 = new Vector3(screenBounds.x - objectWidth, yAxis,0);
+        //pos1 = new Vector3(screenBounds.x * -1 + objectWidth, yAxis,0);
+        //pos2 = new Vector3(screenBounds.x - objectWidth, yAxis,0);
     }
 
     void Update()
     {
-        transform.position = Vector3.Lerp(pos1, pos2, Mathf.PingPong(Time.time * speed, 1.0f));
-        yAxis -= 0.003f;
-        pos1 = new Vector3(screenBounds.x * -1 + objectWidth, yAxis,0);
-        pos2 = new Vector3(screenBounds.x - objectWidth, yAxis, 0);
+        //transform.position = Vector3.Lerp(pos1, pos2, Mathf.PingPong(Time.time * speed, 1.0f));
+        //yAxis -= 0.003f;
+        //pos1 = new Vector3(screenBounds.x * -1 + objectWidth, yAxis,0);
+        //pos2 = new Vector3(screenBounds.x - objectWidth, yAxis, 0);
     }
 
     void OnTriggerEnter2D(Collider2D col)
