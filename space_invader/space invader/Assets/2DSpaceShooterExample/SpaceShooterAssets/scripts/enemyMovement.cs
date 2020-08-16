@@ -18,7 +18,10 @@ public class enemyMovement : MonoBehaviour
 
     private void Start()
     {
-        screenBounds = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, Camera.main.transform.position.z));
+        if (!(Camera.main is null))
+            screenBounds =
+                Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height,
+                    Camera.main.transform.position.z));
         objectWidth = transform.GetComponent<SpriteRenderer>().bounds.size.x / 2;
         objectHeight = transform.GetComponent<SpriteRenderer>().bounds.size.y / 2;
         pos1 = new Vector3(screenBounds.x * -1 + objectWidth, yAxis,0);
@@ -33,9 +36,10 @@ public class enemyMovement : MonoBehaviour
         pos2 = new Vector3(screenBounds.x - objectWidth, yAxis, 0);
     }
 
-    private void OnCollisionEnter(Collision other) {
-        if (other.gameObject.name == "bullet") {
-            Destroy(other.gameObject);
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.tag == "bullet") {
+            Destroy(gameObject);
         }
     }
 }   
