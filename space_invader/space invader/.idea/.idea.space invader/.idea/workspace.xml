@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d02d2b03-0b8b-4ade-a379-868da01568e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD4DA9DF-AAA2-4A9C-9AC5-DD24D57209C7/7a/513a8c0c/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/playerControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/boundaries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/enemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/player_control.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/boundary_temp.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/boundary.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/boundaries.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/playerControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/CollisionDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DSpaceShooterExample/SpaceShooterAssets/scripts/enemyMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2hopz7uN94eAVkADuFqJ8bBIi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d02d2b03-0b8b-4ade-a379-868da01568e4" name="Default Changelist" comment="" />
+      <created>1582146775424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582146775424</updated>
+      <workItem from="1582146786275" duration="1591000" />
+      <workItem from="1582150404324" duration="402000" />
+      <workItem from="1582151053618" duration="5185000" />
+      <workItem from="1582325584714" duration="47000" />
+      <workItem from="1582325721413" duration="1029000" />
+      <workItem from="1582326850741" duration="673000" />
+      <workItem from="1582327658872" duration="5840000" />
+      <workItem from="1582592415247" duration="6013000" />
+      <workItem from="1582670375585" duration="13000" />
+      <workItem from="1597590080562" duration="2286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="320" y="97" key="#Notifications" timestamp="1582592485700">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="320" y="97" key="#Notifications/0.23.1440.814@0.23.1440.814" timestamp="1582592485700" />
+    <state x="415" y="161" key="RiderGenerateDialog" timestamp="1582333961044">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="415" y="161" key="RiderGenerateDialog/0.23.1440.812@0.23.1440.812" timestamp="1582333961044" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1582331534500">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1582331534500" />
+  </component>
+</project>
